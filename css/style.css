@@ -50,7 +50,7 @@ header ul li a:hover {
 }
 .banner {
 	height: 60vh;
-	background-image: url('../img/banner.jpg');
+	background-image: url('../img/banner.JPG');
 	background-size: cover;
 	position: relative; 
 	display: flex;
@@ -127,7 +127,7 @@ tr, td:nth-child(even) {
 }
 .rafly {
 	height: 60vh;
-	background-image: url('../img/rafly.jpg');
+	background-image: url('../img/rafly.JPG');
 	background-size: cover;
 	position: relative; 
 	justify-content: center;
