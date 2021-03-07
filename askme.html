@@ -27,7 +27,7 @@
   </div>
   <header>
     <div class="container">  
-      <h1><a href="index.html">Muhammad Rafly Ihza Rayana</a></h1>
+      <h1><a href="index.php">Muhammad Rafly Ihza Rayana</a></h1>
       <ul>
           <li><a href="myprojects.html">My Projects</a></li>
           <li><a href="about.html">ABOUT</a></li>
